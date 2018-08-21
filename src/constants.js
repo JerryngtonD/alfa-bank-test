@@ -1,0 +1,11 @@
+export const CHANGE_PAY = 'CHANGE_PAY';
+
+export const CHANGE_CARD_NUMBER = 'CHANGE_CARD_NUMBER';
+
+export const CHANGE_ACTION_TIME = 'CHANGE_ACTION_TIME';
+
+export const CHANGE_CARD_OWNER = 'CHANGE_CARD_OWNER';
+
+export const CHANGE_CVV = 'CHANGE_CVV';
+
+
